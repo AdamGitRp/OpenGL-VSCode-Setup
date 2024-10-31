@@ -1,6 +1,6 @@
 this setup utilizes pre-compiled 32 binary glfw header files and the 2022 release of vscode
 
-download the whole project folder via https://download-directory.github.io/ (navigate to the directory url, copy it and paste it into the entry field)
+download the whole project folder via https://download-directory.github.io/ (copy the directory url and paste it into the entry field)
 
 once the project folder is downloaded, open it in vscode (Ctrl+Shift+N -> Open Folder) and run the following commands in the terminal:
 
