@@ -9,4 +9,5 @@ make sure you are in the bin folder (if not, just type **cd bin** and hit enter)
 at last, run the following commands in the terminal:
   
 **mingw32-make**
+
 **.\main.exe**
